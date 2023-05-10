@@ -1,3 +1,6 @@
+**Autor**: Alejandro Colombo Vega
+**Fecha**: 
+
 # PEC3_Manovich_Reloaded
 
 ## Introducción
@@ -19,3 +22,6 @@
 
 
 ## Blibliografia
+Adell, Ferran (2014), _Remediación, multimedia e hibridación de los medios_
+http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+Manovich, L. (2013). _El software toma el mando_. Editorial UOC.
