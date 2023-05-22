@@ -9,7 +9,7 @@ Lo que conocemos como cultura digital ha experimentado una evolución constante 
 
 Y si entramos en términos de hibridación, debemos citar indiscutiblemente a Lev Manovich, teórico de los nuevos medios, quien en esta ocasión nos distingue entre los conceptos **multimedia e hibridación**, pues no es recomendable confundirlos, ya que nos muestran dos paradigmas bien distintos. Para Manovich, **la multimedia es la combinación de múltiples medios en un solo sistema**, pero en contraste con la hibridación, ésta última permite además **una interacción mayor entre los elementos que forman el todo**, lo que implica la creación de nuevos formatos y géneros, **resultando en un nuevo sistema que previamente no existía**. Por tanto, si debieramos resumir la hibridación en pocas palabras, podríamos decir que **su aplicación es más transcendental que la multimedia**, que en realidad tan solo mezcla medios sin una consecuencia realmente cambiante o transgresora en el medio híbrido resultante.
 
-> «Dicho de otra forma, cada elemento de un mensaje multimedia se abre en su propio visor [...]. Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno»
+> _«Dicho de otra forma, cada elemento de un mensaje multimedia se abre en su propio visor [...]. Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno»_
 > 
 > (L. Manovich, 2013).
 
@@ -25,7 +25,7 @@ Es muy complicado encontrar a alguien que no conozca la plataforma líder en men
 
 En primera instancia, esta aplicación combina los sistemas de mensajería instantánea con la capacidad de realizar llamadas y videollamadas, algo que antes debía producirse a través de medios distintos. No suficiente con esto, Whatsapp permite compartir imágenes, vídeos y otra multimedia entre contactos (otros usuarios que utilicen la aplicación). Siguiendo esta línea, podremos encontrar también entre sus funcionalidades la integración con Facebook, una hibridación que se manifiesta en forma de contenido cruzado entre ambas plataformas, y que permite acceder a los diferentes servicios desde una sola puerta de entrada. Asimismo, Whatsapp amplía las fronteras del usuario al incluir una función social más propia de las redes sociales; los llamados «estados», que representan un medio por el cual compartir información personal sujeta a actualizaciones inmediatas. 
 
-> «[...] hoy por hoy podemos describir uno de los principales mecanismos que hay detrás de la invención de estos nuevos medios. Este mecanismo es la hibridación. Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones»
+> _«[...] hoy por hoy podemos describir uno de los principales mecanismos que hay detrás de la invención de estos nuevos medios. Este mecanismo es la hibridación. Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones»_
 > 
 > (L. Manovich, 2013).
 
@@ -52,7 +52,7 @@ Ahora bien: hablemos de las funcionalidades que nos trae Music de cara al usuari
 
 Asimismo, Music cuenta con un sistema de pago, una suscripción mensual en la que el usuario suscriptor **puede escuchar música sin verla interrupida por anuncios**. Cabe destacar también que Music se integra de igual modo con el sistema Google Home, de modo que logra combinarse con hardware específico (altavoces inteligentes) que permiten reproducir la música de la plataforma **a través de un comando de voz físico**, y esto es importante, porque hablamos de que Music trasciende las pantallas y combina con elementos palpables de nuestro medio material.
 
-> «Puede que algunas de las nuevas invenciones ganen tanta importancia e influencia que ya no parezca adecuado concebirlas como meros elementos. En estos casos haríamos bien en llamarlas nuevas plataformas de medios, o sencillamente nuevos medios»
+> _«Puede que algunas de las nuevas invenciones ganen tanta importancia e influencia que ya no parezca adecuado concebirlas como meros elementos. En estos casos haríamos bien en llamarlas nuevas plataformas de medios, o sencillamente nuevos medios»_
 > 
 > (L. Manovich, 2013).
 
