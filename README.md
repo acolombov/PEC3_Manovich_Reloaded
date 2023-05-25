@@ -20,7 +20,8 @@ Para entender aún mejor este concepto, vamos a indagar en los importantes matic
 ## Caso 1: La mensajería en Whatsapp
 Hoy en día es especialmente complicado encontrar a alguien que no conozca la plataforma líder en mensajería en el mundo, si bien imposible. **Whatsapp** tal y como todos la conocemos es un evidente ejemplo de a lo que se refiere Manovich por **hibridación**, pues tratamos con un **medio híbrido** que utiliza **elementos distintos y de medios múltiples**, lo que a su vez se traduce en una serie de funciones, tan dispares como vitales, y las integra a todas en un conjunto, en un único núcleo y interfaz.
 
-![internet-3113279_1280](https://github.com/acolombov/PEC3_Manovich_Reloaded/assets/132814522/5c05e2fb-44d1-449d-903e-762fb8de6722)
+![internet-3113279_1280](https://github.com/acolombov/PEC3_Manovich_Reloaded/assets/132814522/bcaf86a9-9356-478c-b48d-ac2e8028ff14)
+
 
 ### Funciones y más funciones
 En primer lugar debemos señalar la que es posiblemente la función más representativa de la aplicación: su **sistema de mensajería síncrona**. Sin embargo, **Whatsapp** no es una simple interfaz por la que escribir y recibir mensajes, sino que logra **combinar con la capacidad de realizar llamadas y videollamadas**, algo que antes debía producirse **a través de medios distintos**. No suficiente con esto, Whatsapp permite al usuario compartir imágenes, vídeos y otro tipo de multimedia entre contactos (otros usuarios que utilicen la aplicación). De este modo, **Whatsapp** se convierte en un práctico y dinámico chat desde el cual poder interactuar con el resto de usuarios de manera sencilla e intuitiva, y comprobamos asimismo que ya no solo tiene la capacidad de resultar un canal de la comunicación, sino que nos permite, como hemos visto anteriormente, **almacenar y transferir ficheros de forma instantánea**.
@@ -45,7 +46,7 @@ De todos modos, sea cual sea la razón de esta expansión de funcionalidades, no
 ## Caso 2: La experiencia YouTubeMusic
 Nos encontramos ante una plataforma que podría llegar a confundirse con su hermana casi gemela **YouTube**, y es que a fin de cuentas, ésta primera **integra a la segunda casi en su totalidad**; y sin embargo, YouTubeMusic (a la que comenzaré a referirme a partir de ahora como simplemente «Music»), tiene una serie de sistemas que podrían pasar desapercibidos para el usuario medio que **la hacen completamente única** respecto a YouTube, y cuyo propósito hace cambiar de forma radical el planteamiento que ésta propuso.
 
-![smartphone-791076_1280](https://github.com/acolombov/PEC3_Manovich_Reloaded/assets/132814522/64c84549-76a3-4783-b49f-e056367a2cd6)
+![smartphone-791076_1280](https://github.com/acolombov/PEC3_Manovich_Reloaded/assets/132814522/26c148be-4e76-4457-9420-5793915e521e)
 
 Ahora bien... es inevitable comparar Music con la plataforma Spotify, y bien es cierto que ésta última hace lo mismo que Music -quizá incluso mejor-, pero el atractivo real de la plataforma que tratamos hoy aquí es en realidad el gran **ecosistema** que lo respalda, tal y como veremos en los puntos a continuación.
 
